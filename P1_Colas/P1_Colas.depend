@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1619608253 source:c:\users\cotes\desktop\archivos\universidad\segundo año\2 cuatri\estructuras de datos\practica\practica 1 colas\p1_colas\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+	"Telescopio.hpp"
+
+1619691993 c:\users\cotes\desktop\archivos\universidad\segundo año\2 cuatri\estructuras de datos\practica\practica 1 colas\p1_colas\telescopio.hpp
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+
+1619608253 source:c:\users\cotes\desktop\archivos\universidad\segundo año\p1_colas\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+	"Telescopio.hpp"
+
+1619608087 c:\users\cotes\desktop\archivos\universidad\segundo año\p1_colas\telescopio.hpp
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+
+1619608253 source:c:\users\cotes\desktop\archivos\universidad\segundo año\2 cuatri\estructuras de datos\practica\practica 1 colas\p1_colas final\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+	"Telescopio.hpp"
+
+1619691993 c:\users\cotes\desktop\archivos\universidad\segundo año\2 cuatri\estructuras de datos\practica\practica 1 colas\p1_colas final\telescopio.hpp
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1624109886 source:c:\users\cotes\desktop\archivos\universidad\segundo año\2 cuatri\estructuras de datos\practica\practica 2\p2_arboles\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+	"Telescopio.hpp"
+
+1624109825 c:\users\cotes\desktop\archivos\universidad\segundo año\2 cuatri\estructuras de datos\practica\practica 2\p2_arboles\telescopio.hpp
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<string.h>
+
